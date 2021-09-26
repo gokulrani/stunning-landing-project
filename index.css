@@ -1,0 +1,26 @@
+.thumbnail{
+    width: 250px;
+    height:250px;
+    padding:20px;
+    display:inline;
+}
+#topbar{
+    display:flex;
+    padding-top:0px;
+    justify-content: space-between;
+}
+.pic{
+    display:flex;
+    flex-direction:row-reverse;
+    padding-top:0px;
+    
+}
+#img-wrapper{
+    padding:16px;
+    width:50px;
+}
+.profile{
+    border-radius: 50px;
+    width:100px;
+    height:100px;
+}
